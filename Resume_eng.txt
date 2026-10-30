@@ -1,0 +1,67 @@
+﻿Python Backend Developer Michael Semyonoff
+___________________________________________
+
+Backend engineer with hands-on 8+ years experience across three major Python frameworks: primarily FastAPI, with practical experience in Django and Flask.
+Experienced in building and refactoring backend systems, working with both new and existing applications, microservice architectures, CQRS, REST APIs, asynchronous processing, integrations, and database-driven applications.
+Worked with relational databases, MongoDB as both a primary data store and an external read layer in CQRS setups, Elasticsearch for search, and Redis for caching. Practical experience with message queues, Docker, Kubernetes, Nginx, and S3-compatible storage.
+
+Skills
+  Languages:
+    Python, JavaScript
+  Frameworks & Backend:
+    FastAPI, Django, Flask, DDD, WebSocket, REST API, gRPC, SQLAlchemy, Pytest
+  Databases & Search:
+    PostgreSQL, MySQL, MariaDB, MongoDB, Elasticsearch, Redis
+  Messaging & Processing:
+    RabbitMQ, Apache Kafka, Celery, Airflow
+  Infrastructure & Tools:
+    Docker, Kubernetes, Nginx, Grafana, Prometheus, Loki, S3, Git, GitLab CI/CD, Linux
+  Frontend:
+    React, JavaScript, HTML, CSS
+
+Contacts
+  Linkedin: https://www.linkedin.com/in/michael-semyonoff
+  Email: donrodrigess@gmail.com
+  GitHub: https://github.com/juahcarlos/
+
+Education
+  Moscow Engineering Physics Institute
+  Faculty of Automatic and Electronic
+
+Experience:
+
+Python Developer — Media-Nest
+2016–2020
+    • Worked on the company's main websites.
+    • Developed and refactored backend applications using Python, Flask, and Django.
+    • Introduced NoSQL databases, CQRS, and microservice architecture in backend systems.
+Python Developer — Media Enterprize
+2020–2022
+    • Developed and optimized backend applications using Flask and Django.
+    • Used multiprocessing and asynchronous approaches for performance improvements.
+    • Implemented CQRS by moving frequently accessed pages to a separate MongoDB-based read layer.
+Python Developer — Blue Dynamics
+2022–2023
+    • Developed a microservice-based "smart" warehouse system using FastAPI, Redis, and Celery.
+    • Connected services using gRPC.
+    • Worked in collaboration with the ML team.
+Python Developer — WHOIX Ltd
+2023–2025
+    • Developed and refactored backend services using Python FastAPI.
+    • Integrated payment systems including Stripe, PayPal, WebMoney, and Cryptomus.
+    • Built a web service for crypto-asset verification, integrating third-party APIs and processing and validating data through REST interfaces using JSON and XML.
+    • Developed backend functionality for a mobile application with in-app payments through Apple Pay and Google Play Billing.
+Python Developer — DChat
+2025–Present
+    • Built a B2B multi-channel messaging platform with Telegram, WhatsApp, and CRM integrations.
+    • Built the project as the sole engineer, covering architecture, backend development, testing, and deployment.
+    • Developed the backend around FastAPI and integrated external messaging and CRM services.
+
+Languages
+  Russian — Native
+  English — B2
+  Polish — A2
+
+Interests
+  Movies, music
+
